@@ -1,0 +1,1 @@
+https://medium.com/@akatuma/finding-and-lifting-up-diamonds-in-the-rough-shaping-the-next-generation-of-ai-researchers-ed7c04432362

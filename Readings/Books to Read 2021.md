@@ -1,0 +1,30 @@
+
+- The Invisible Life Of Addie La Rue By V. E. Schwab
+- The Starless Sea By Erin Moregenstern
+- The House In The Cerulean Sea By T.J. Klune
+- Legendborn By Tracy Deonn
+- Malibu Rising By Taylor Jenkins Reid
+- This Is How You Lose The Time War By Amal El-Mohtar And Max Gladstone
+- All About Love By Bell Hooks
+- The Poppy War By R. F. Kuang
+- King Of Crows By Libba Bray
+- Chain Of Iron By Cassandra Clare
+- Big Friendship How We Keep Each.Other Close - Aminatou Sow + Ann Friedman: [https://bookofthemonth.com/](https://bookofthemonth.com/)
+- Mastery of Love - Don Miguel Ruiz: [https://amzn.to/3fn5NuR](https://amzn.to/3fn5NuR)
+ Four Agreements: [https://amzn.to/2DwY8w5](https://amzn.to/2DwY8w5)
+- Atomic Habits - James Clear: [https://amzn.to/2Zn8cQE](https://amzn.to/2Zn8cQE)
+- Digital Minimalism - Cal Newport: [https://amzn.to/38DASIi](https://amzn.to/38DASIi)
+- Circe - Madeline Miller: [https://amzn.to/2BioGAF](https://amzn.to/2BioGAF)
+- The Woman in the Window - AJ Finn: [https://amzn.to/3fcqidZ](https://amzn.to/3fcqidZ)
+- Between The World and Me - Ta-Nehisi Coates: [https://amzn.to/3e7oTUw](https://amzn.to/3e7oTUw)
+- The Sun Does Shine - Anthony Ray Hinton: [https://amzn.to/3iJ9cq7](https://amzn.to/3iJ9cq7)
+- Me - Elton John: [https://amzn.to/2ZPPAbl](https://amzn.to/2ZPPAbl)
+- Just Mercy By Bryan Stevenson: [https://amzn.to/2VsP2Xy](https://amzn.to/2VsP2Xy)
+- When Breath Becomes Air - Paul Kalanithi: [https://amzn.to/2ZcAD3Z](https://amzn.to/2ZcAD3Z)
+- Clothes, Music, Boys - Viv Albertine: [https://amzn.to/3fjkcsk](https://amzn.to/3fjkcsk)
+- As A Man Thinketh – James Allen
+- The Power of Habit: Why do we do what we do – Charles
+- Talent Is Overrated: What really separates world-class performers from Everyday Else – Geoff Colvin
+- In a Different Voice: Psychological Theory and Women's Development is a book on gender studies - Carol Gilligan
+- Oroginals by Adam Grant
+- In the name of globalisation: meritocracy, productivity and the hidden language of caste by Surinder s jodhka and Katherine Newman.

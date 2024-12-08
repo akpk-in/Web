@@ -1,0 +1,13 @@
+6 Easy Pieces [https://geni.us/feynman6easy](https://geni.us/feynman6easy)
+6 Not So Easy Pieces [https://geni.us/feynman6notsoeasy](https://geni.us/feynman6notsoeasy)
+Alex's Adventures in Numberland [https://geni.us/alexadventures](https://geni.us/alexadventures)
+Physics of the Impossible [https://geni.us/physicsimpossible](https://geni.us/physicsimpossible)
+Quantum [https://geni.us/kumarquantum](https://geni.us/kumarquantum)
+In Search of Schrodinger's Cat [https://geni.us/gribbincat](https://geni.us/gribbincat)
+The Elegant Universe [https://geni.us/gribbincat](https://geni.us/gribbincat)
+
+Mathematical Methods [https://geni.us/mathematicalmethods](https://geni.us/mathematicalmethods)
+Fundamentals of Physics [https://geni.us/hallidayresnickwalker](https://geni.us/hallidayresnickwalker)
+Grad, Div, Curl and All That [https://geni.us/graddivcurl](https://geni.us/graddivcurl)
+Concepts in Thermal Physics [https://geni.us/blundellandblundell](https://geni.us/blundellandblundell)
+Visual Display of Quantitative Information [https://geni.us/visualdisplayq](https://geni.us/visualdisplayq)

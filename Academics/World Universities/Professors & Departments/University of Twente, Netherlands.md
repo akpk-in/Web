@@ -1,0 +1,1 @@
+https://utwentecareers.nl/en/vacancies/1960/phd-position-digital-humanities-ai-and-citizen-science/

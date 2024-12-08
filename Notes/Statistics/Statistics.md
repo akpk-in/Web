@@ -1,0 +1,36 @@
+- Measures of Central Tendency
+    - Mean: The average value in a dataset
+    - Median: The middle value when data is ordered
+    - Mode: The most frequently occurring value
+- Measures of Dispersion
+    - Range: Difference between maximum and minimum values
+    - Variance: Average squared deviation from the mean
+    - Standard Deviation: Square root of variance
+    - Interquartile Range (IQR): Range between 25th and 75th percentiles
+- Data Visualization
+    - Bar Plots: For comparing categories
+    - Box Plots (Box and Whisker): Shows distribution, quartiles, and outliers
+    - Histograms: Display frequency distribution
+    - Scatter Plots: Show relationships between two variables
+- Outlier Detection
+    - Statistical Methods (e.g., Z-score, IQR method)
+    - Visual Methods (Box plots, Scatter plots)
+    - Distance-based Methods (e.g., isolation forest)
+- Frequency Distribution
+    - Absolute Frequency: Count of observations
+    - Relative Frequency: Proportion of observations
+    - Cumulative Frequency: Running total of frequencies
+    - Frequency Tables and Histograms
+- Bivariate Analysis
+    - Correlation Coefficients (Pearson, Spearman)
+    - Cross-tabulation
+    - Covariance
+    - Joint Probability Distributions
+________________________________________________________________________
+- Bar Plots
+- Box Plots
+- Detecting Outliers
+- Mean, Median, Mode
+- Correlation
+- Frequency Distribution
+- Bivariate Analysis

@@ -1,0 +1,1 @@
+https://www.andrewkuz.net/public/dashboards/cs-hci-phd-opportunities/2024/html/cs-hci-phd-opportunities-2024.html

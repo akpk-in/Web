@@ -1,0 +1,11 @@
+
+- Linda Flower
+- William Strunk & E B White
+- The Other Side of Silence- Urvashi Butalia
+- Durkheim, E. (1995) The Elementary Forms of Religious life. (Full book)
+- Weber, M. (1993), The Sociology of Religion. (Full book)
+- Clothey F. W. (2006), Religion in India: A Historical Introduction— Chapters-1, 2 and 3 + Islam in India section from Chapter 6 and Sikhism section from Chapter 7 only.
+- Campbell H.A. (2010) When Religion Meets New Media. Chapters— 1, 5, 7 & 8.
+- Sinha V. (2011), Religion and Commodification: Merchandising Diasporic Hinduism. Chapters— 1,2,4 and some parts of Chapter 6.
+- Experience, Caste, and the Everyday Social- Gopal Guru & Sundar Sarukkai
+- The Cracked Mirror: An Indian Debate on Experience and Theory- Gopal Guru & Sundar Sarukkai

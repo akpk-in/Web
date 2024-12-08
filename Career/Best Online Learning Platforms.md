@@ -1,0 +1,11 @@
+- [Coursera](https://imp.i384100.net/AoD4WK) - Best Subscription-Based Platform for Online Classes
+- [Udemy](https://click.linksynergy.com/deeplink?id=jU79Zysihs4&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F) - Best for Casual Learning and Niche Topics
+- [Skillshare](https://skillshare.eqcm.net/e4Md96) - Best for Courses on Creative Skills
+- [Udacity](https://imp.i115008.net/2rzJk7) - Best for Career Growth
+- [edX](https://edx.sjv.io/c/2890636/1598007/17728?u=https%3A%2F%2Fwww.edx.org%2F) - Best Free Online Learning Platform
+- [PluralSight](https://pluralsight.pxf.io/BXMzx1) - Best Learning Platform for Working Professionals
+- [Khan Academy](https://www.khanacademy.org/) - Best Free Platform for Learning Math
+- [LinkedIn Learning](https://linkedin-learning.pxf.io/jW0Z2M) - Best for Certification Prep and Earning CEUs
+- [Thinkful](https://www.thinkful.com/) - Best for Bootcamps
+- [Simplilearn](https://www.simplilearn.com/) - Best for Flexible Learning
+- [CodeAcademy](https://www.codecademy.com/) - Best Online Platform for Learning to Code
