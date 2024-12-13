@@ -1,0 +1,23 @@
+- Jira
+- TCP
+- Azure
+- Operating systems
+- Software troubleshooting
+- Encryption
+- Google Cloud Platform
+- Windows
+- Firewall
+- AWS
+- ITIL
+- Remote access software
+- IT support
+- Computer networking
+- DNS
+- MacOS
+- ServiceNow
+- Linux
+- TCP/IP
+- Communication skills
+- CompTIA A+
+- Help desk
+- VPN

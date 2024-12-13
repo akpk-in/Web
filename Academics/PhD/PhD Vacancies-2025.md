@@ -8,3 +8,4 @@
 7. **Submission is possible until:  15 Dec 2024**  https://careers.tudelft.nl/job/Delft-PhD-Position-AI-driven-Cybersecurity-and-Cybersafety-2628-CD/806632902/
 8. **Closes on 2-12-2024** https://werkenbij.uva.nl/en/vacancies/phd-position-enhancing-adolescents-agency-over-social-media-use-for-digital-well-being-netherlands-13585
 9. **Apply until: 20/01/2025 23:59 CET** https://www.kuleuven.be/personeel/jobsite/jobs/60407574?lang=en
+10. Application Deadline 26 Jan 2025 - 23:00 (UTC) https://euraxess.ec.europa.eu/jobs/298636

@@ -1,0 +1,2 @@
+1. [Stefanovic](https://www.youtube.com/@Stefanovic92) // I Tried 50 Data Analyst Courses. Here Are Top 5 https://www.youtube.com/watch?v=X7eAwyMvm2c
+2. Ashish Pratap Singh How I Would Learn to Code (If I Had To Start Over) https://www.youtube.com/watch?v=ikmAXAUfJlk
