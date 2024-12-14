@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "848302e91fd0ad7d",
+        "id": "fb5e1cd9b7beae98",
         "type": "tabs",
         "children": [
           {
-            "id": "47a68557a2aa92e4",
+            "id": "17ecbdb6eb9f612f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,21 +162,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47a68557a2aa92e4",
+  "active": "17ecbdb6eb9f612f",
   "lastOpenFiles": [
+    "Academics/World Universities/Sciences Po, France/Potential PhD Supervisors.md",
+    "Academics/PhD/Advices & Mentorship.md",
+    "Academics/World Universities/Sciences Po, France",
+    "Academics/World Universities/Untitled.md",
+    "Linux Commands/Arch Linux.md",
+    "Linux Commands/Printer @Thinkpad L14.md",
+    "Readings/Thirty books to help us understand the world in 20.md",
+    "Readings/The 5 Best Books About Chess Openings.md",
+    "Readings/Blog-Medium Links/Write, Publish, Thrive! A Blog about Writing, Publishing and the Scholarly Life.md",
+    "Readings/Blog-Medium Links/Finding and Lifting Up Diamonds in the Rough-Shaping the Next Generation of AI Researchers.md",
+    "Random Notes/Friday, 13 December 2024.md",
+    "The 5 Best Books About Chess Openings 58fbb95a614b40c6ba15dfba7bbf6915/51x4wjwZdAL._SL500_.jpg.md",
+    "The 5 Best Books About Chess Openings 58fbb95a614b40c6ba15dfba7bbf6915/51e2bFTlDuL._SL500_.jpg.md",
+    "Career/DevOps/DevOps Certifications.md",
+    "Career/DevOps/DevOps-Roadmap.md",
+    "Career/DevOps",
+    "Career/Career Paths.md",
+    "Notes/Best ChatGPT Alternatives.md",
+    "Notes/Algorithms/Algorithmic Governance.md",
+    "Academics/PhD/SOP, Research Proposals, CV, Reference Letters templates, GRE, TOEFL & IELTS Exams-Prep Questions.md",
+    "Academics/PhD/PhD Vacancies-2025.md",
+    "Academics/PhD/PhD Vacancies-2024.md",
+    "Academics/PhD/DAAD Scholarship Programmes.md",
+    "The 5 Best Books About Chess Openings 58fbb95a614b40c6ba15dfba7bbf6915",
+    "Academics/Research/Types of research gap.md",
     "Career/Sociology- Job Openings.md",
     "Career/Job Skill Requirements/IT Support Analyst.md",
     "Career/Job Skill Requirements",
     "Career/My AWS Certified DevOps Engineer — Professional Certification Experience. (2024).md",
     "Career/Job/Untitled.md",
     "Career/Job",
-    "2024-12-13.md",
-    "Untitled.canvas",
-    "Random Notes/Monday, 13 December 2024.md",
-    "Career/Study Material Links.md",
-    "Career/YouTube Links.md",
-    "Career/Google Professional certification.md",
-    "Linux Commands/Arch Linux.md",
-    "Academics/PhD/Advices & Mentorship.md"
+    "Untitled.canvas"
   ]
 }
