@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cef6b13ee4990939",
+        "id": "f6901f3b3f3492a9",
         "type": "tabs",
         "children": [
           {
-            "id": "d92cc68b26aae47b",
+            "id": "09b8b6bc99ad4bd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,8 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d92cc68b26aae47b",
+  "active": "09b8b6bc99ad4bd2",
   "lastOpenFiles": [
+    "Linux Commands/Arch Linux.md",
     "Linux Commands/Printer @Thinkpad L14.md",
     "Random Notes/Monday, 16 December 2024.md",
     "Academics/World Universities/Professors & Departments/University at Buffalo.md",
@@ -176,7 +177,6 @@
     "Academics/World Universities/Sciences Po, France/Potential PhD Supervisors.md",
     "Academics/PhD/Advices & Mentorship.md",
     "Career/Career Paths.md",
-    "Linux Commands/Arch Linux.md",
     "Academics/World Universities/Sciences Po, France",
     "Academics/World Universities/Untitled.md",
     "Readings/Thirty books to help us understand the world in 20.md",

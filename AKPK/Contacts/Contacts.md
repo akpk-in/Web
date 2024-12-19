@@ -8805,5 +8805,12 @@ VERSION:3.0
 FN:Pramod C R;;;
 N:C R;Pramod;;;
 TEL;TYPE=CELL:+91 97468 34109
-END:VCARD
 Note:Kerala Varma
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN: Dr. Jins Varkey;;;
+N:Varkey; Jins;;;
+TEL;TYPE=CELL: +91 94973 56549
+Note:St. Aloysius College, Elthuruth
+END:VCARD
