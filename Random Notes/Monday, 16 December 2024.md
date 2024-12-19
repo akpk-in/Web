@@ -1,8 +1,3 @@
-1. https://utwentecareers.nl/en/vacancies/1960/phd-position-digital-humanities-ai-and-citizen-science/
-2. https://naveena-karusala-870740.webflow.io/apply
-3. https://drexel.edu/cci/admissions/doctoral/
-4. https://drexel.edu/cci/
---
 1. https://www.coursera.org/specializations/data-science-python
 2. https://www.coursera.org/learn/data-analysis-with-python#modules
 3. https://www.coursera.org/specializations/applied-data-science#courses

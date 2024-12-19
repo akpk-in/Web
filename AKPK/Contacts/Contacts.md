@@ -8793,6 +8793,17 @@ ORG:Jawaharlal Nehru University\, New Delhi
 NOTE:JNU
 CATEGORIES:myContacts
 END:VCARD
-Jijesh Ajman- +971 52 684 4225
-Nitya Radhakrishnan, IPS- +91 98844 28122
-Babu Ajman- +971 52 912 1527
+BEGIN:VCARD
+VERSION:3.0
+FN:Dr. Shailesh Sivan;;;
+N:Sivan;Shailesh;;;
+TEL;TYPE=CELL:+91 89072 30664
+NOTE: CUSAT/Kerala Varma
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Pramod C R;;;
+N:C R;Pramod;;;
+TEL;TYPE=CELL:+91 97468 34109
+END:VCARD
+Note:Kerala Varma

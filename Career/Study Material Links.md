@@ -3,3 +3,5 @@
 	https://algomaster.io/
 2. Design Patterns in Python 
 	https://refactoring.guru/design-patterns/python
+3. **MATHEMATICAL METHODS in DATA SCIENCE (with Python)**
+    https://mmids-textbook.github.io/
