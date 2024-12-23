@@ -10,3 +10,6 @@
 9. Closing date for applications: 27.01.2025, 3pm https://www.ucd.ie/sociology/t4media/UCD_School_of_Sociology_PhD_Scholarship.pdf
 10. Application deadline 20 January 2025 https://www.surrey.ac.uk/fees-and-funding/studentships/south-east-doctoral-training-arc-sedarc-studentship-2025
 11. Deadline Monday 3 March 2025 https://phd.leeds.ac.uk/funding/384-school-of-media-and-communication-phd-scholarship-2025-2026
+12.  Application Deadline **20/01/2025** https://academicpositions.com/ad/vrije-universiteit-brussel/2024/phd-researcher-on-the-societal-impact-of-generative-ai/227219
+13. Application Deadline 1st February 2025 https://academicpositions.com/ad/university-of-basel/2024/phd-or-postdoctoral-position-machine-learning-in-the-social-sciences-and-humanities-60/226215
+14.  Application deadline 2025-01-20 https://academicpositions.com/ad/vrije-universiteit-brussel/2024/phd-researcher-on-the-societal-impact-of-generative-ai/227219
