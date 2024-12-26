@@ -1,9 +1,0 @@
-1. https://www.coursera.org/specializations/data-science-python
-2. https://www.coursera.org/learn/data-analysis-with-python#modules
-3. https://www.coursera.org/specializations/applied-data-science#courses
-4. https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect
-5. https://www.coursera.org/learn/intro-to-devops
-6. https://www.coursera.org/professional-certificates/devops-and-software-engineering#courses
---
-1. https://aws.amazon.com/training/restart/#How_to_apply_for_AWS_re.2FStart
-2. https://www.simplyhired.co.in/job/U7iZtRhQ-l_U-BYrZnQGVrFCcB3fAbNrCBSUYxz6_wqPLZtWyPOeFw

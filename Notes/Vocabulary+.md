@@ -1,93 +1,247 @@
-Sumptuous- Splendid and expensive-looking.
-Obfuscation- The action of making3 ee something obscure, unclear, or unintelligible.
-Mesmerize- Capture the complete attention of (someone); transfix.
-Chaperone- A person who accompanies and looks after another person or group of people.
-Demurred- Raise objections or show 2re.
-Confrontation- A hostile or argumentative situation or meeting between opposing parties.
-Flamboyant: (of a person or their behaviour) tending to attract attention because of their exuberance, confidence, and stylishness.
-Psephology: A division of political science that deals with the examination as well as the statistical analysis of elections and polls.
-Acquaintance: A person one knows slightly, but who is not a close friend.
-Obstreperous: Noisy and difficult to control.
+## A
 
-Inexplicable foofaraw has thwarted my studies bygone day. Nevertheless, today is OK.
+### Acquaintance
+- **Root**: From Old French "acointance" (knowledge, friendship), from Latin "accognitare" (to get to know)
+- **Memory Tip**: Think "ac-quaint" - someone you know just enough to be "quaintly" familiar with
+- **Synonyms**: Associate, contact, colleague
+- **Antonyms**: Stranger, intimate friend
+- **Usage Note**: Less intimate than a friend but more familiar than a stranger
 
-Pandiculation: The act of stretching someone, especially on walking.
+### Alfresco
+- **Root**: Italian "al fresco" meaning "in the fresh (air)"
+- **Memory Tip**: Think of "fresh" - eating in fresh air
+- **Synonyms**: Outdoors, open-air, outside
+- **Antonyms**: Indoors, inside
+- **Usage Note**: Often used specifically for outdoor dining
 
-Alfresco: In the open air.
-Coalesced: Come together to form one mass or whole.
-Profound: Very great or intense.
-Laudatory: Expressing praise and commendation.
+### Altruistic
+- **Root**: From French "altruisme", from Italian "altrui" meaning "of others"
+- **Memory Tip**: "Al-true-istic" - truly caring about others
+- **Synonyms**: Selfless, humanitarian, philanthropic
+- **Antonyms**: Selfish, egoistic, self-centered
 
-Hubris: Excessive pride or self-confidence.
+## B
 
-Nascent: (especially of a process or organization) just coming into existence and beginning to display signs of future potential./or starting to grow or develop; being born.
+### Banished
+- **Root**: From Old English "bannan" (to proclaim, command, summon)
+- **Memory Tip**: "Ban-ished" - someone who has been banned
+- **Synonyms**: Exiled, expelled, deported
+- **Antonyms**: Welcomed, admitted, embraced
 
-Ignominy: Deep personal humiliation and disgrace/Disgraceful or dishonorable conduct, quality, or action
+### Beauteous
+- **Root**: From Middle English "bewteous", from beauty
+- **Memory Tip**: Poetic version of beautiful - think Shakespeare
+- **Synonyms**: Beautiful, lovely, gorgeous
+- **Antonyms**: Ugly, hideous, unsightly
 
-Lentil: A high-protein pulse which is dried and then soaked and cooked prior to eating
+### Bigot
+- **Root**: From French "bigot" (religious hypocrite)
+- **Memory Tip**: Think "big-got" - someone who's got big, inflexible opinions
+- **Synonyms**: Prejudiced person, racist, zealot
+- **Antonyms**: Open-minded person, tolerant individual
 
-Impromptu: Without being planned, organized, or rehearsed
+## C
 
-Wazz: An act of urinating
+### Captivating
+- **Root**: From Latin "captivus" (captured)
+- **Memory Tip**: Something so interesting it "captures" your attention
+- **Synonyms**: Fascinating, enchanting, engaging
+- **Antonyms**: Boring, dull, repulsive
 
-Sabotage: Deliberately destroy, damage, or obstruct (something), especially for political or military advantage.
+### Chaperone
+- **Root**: From French "chaperon" (hood, protector)
+- **Memory Tip**: Think of Little Red Riding Hood's protective cape
+- **Synonyms**: Guardian, escort, supervisor
+- **Antonyms**: Ward, charge, protégé
 
-Sordid: Dirty or squalid
+### Condescending
+- **Root**: From Latin "con" (with) + "descendere" (to descend)
+- **Memory Tip**: Someone who "descends" to a lower level to talk to others
+- **Synonyms**: Patronizing, supercilious, arrogant
+- **Antonyms**: Respectful, humble, egalitarian
 
-Doofus: A stupid person
+## D
 
-Bigot: A person who is obstinately or unreasonably attached to a belief, opinion, or faction, especially one who is prejudiced against or antagonistic towards a person or people on the basis of their membership of a particular group.
+### Dalliance
+- **Root**: From Old French "dalier" (to chat, jest)
+- **Memory Tip**: "Dally" means to waste time - think of "dawdling"
+- **Synonyms**: Flirtation, affair, fling
+- **Antonyms**: Commitment, dedication, faithfulness
 
-Conundrum: A confusing and difficult problem or question.
+### Delighted
+- **Root**: From Latin "delectare" (to charm, delight)
+- **Memory Tip**: De-light-ed: filled with light/joy
+- **Synonyms**: Pleased, joyful, thrilled
+- **Antonyms**: Disappointed, displeased, unhappy
 
-Sit shotgun: To ride in the front passenger seat of a car.
+### Dungeon
+- **Root**: From Old French "donjon" (great tower of a castle)
+- **Memory Tip**: Think "done-in" - where prisoners are "done in"
+- **Synonyms**: Prison cell, jail, hold
+- **Antonyms**: Penthouse, sanctuary, haven
 
-Quixotic: Extremely idealistic; unrealistic and impractical.
+## F
 
-Plummet: Fall or drop straight down at high speed.
+### Famished
+- **Root**: From Old French "afamer" (to starve)
+- **Memory Tip**: FAM-ished: when your family hasn't fed you in ages
+- **Synonyms**: Starving, ravenous, hungry
+- **Antonyms**: Satiated, full, satisfied
 
-Gibberish: Unintelligible or meaningless speech or writing; nonsense.
+### Flamboyant
+- **Root**: From French "flamboyer" (to flame)
+- **Memory Tip**: Think "flame-boy" - as showy as flames
+- **Synonyms**: Ostentatious, flashy, showy
+- **Antonyms**: Understated, modest, subtle
 
-Delighted: Feeling or showing great pleasure.
+## G
 
-Gallivant: To travel, roam, or move about for pleasure. (Informal)
+### Gallivant
+- **Root**: Possibly from "gallant" (fashionable)
+- **Memory Tip**: Think "gala" + "vagrant" - wandering to parties
+- **Synonyms**: Roam, wander, jaunt
+- **Antonyms**: Stay put, remain, settle
 
-Smite: Be strongly attracted to someone or something, strike with a firm blow. (past participle: smitten)
+### Gibberish
+- **Root**: Possibly from Middle English "gibber" (to speak incoherently)
+- **Memory Tip**: Sounds like "jibber" - nonsensical jabber
+- **Synonyms**: Nonsense, jargon, babble
+- **Antonyms**: Sense, clarity, coherence
 
-Fascinating: Extremely interesting.
+## H
 
-Philanderer: A man who readily or frequently enters into casual sexual relationships with women; a womanizer.
+### Hubris
+- **Root**: From Greek "hybris" (excessive pride, wanton violence)
+- **Memory Tip**: Think "huge bris(tle)" - someone bristling with pride
+- **Synonyms**: Arrogance, pride, conceit
+- **Antonyms**: Humility, modesty, meekness
 
-Strumpet: A woman who has many casual sexual encounters or relationships.
+## I
 
-Dungeon: A dungeon is a room or cell in which prisoners are held, especially underground.
+### Ignominy
+- **Root**: From Latin "in" (not) + "nomen" (name, reputation)
+- **Memory Tip**: Think "ig-NO-mini" - having NO good name
+- **Synonyms**: Disgrace, shame, dishonor
+- **Antonyms**: Honor, glory, distinction
 
-Toboggan: A long, light, narrow vehicle, typically on runners, used for sliding downhill over snow or ice.
+### Impertinence
+- **Root**: From Latin "in" (not) + "pertinere" (to belong)
+- **Memory Tip**: Not pertaining to proper behavior
+- **Synonyms**: Rudeness, insolence, impudence
+- **Antonyms**: Respect, courtesy, deference
 
-Impertinence: Lack of respect; rudeness.
+### Infinitesimal
+- **Root**: From Modern Latin "infinitesimus" (infinitely small)
+- **Memory Tip**: "Infinite-small" - so small it's almost infinite in its smallness
+- **Synonyms**: Minute, tiny, microscopic
+- **Antonyms**: Enormous, huge, vast
 
-Bobsled: A mechanically steered and braked sled, typically manned by crews of two or four, used for racing down a steep ice-covered run with banked curves; a bobsleigh.
+## L
 
-Traitor: A person who betrays someone or something, such as a friend, cause, or principle.
+### Laudatory
+- **Root**: From Latin "laudare" (to praise)
+- **Memory Tip**: Similar to "applaud" - giving praise
+- **Synonyms**: Praising, complimentary, commendatory
+- **Antonyms**: Critical, disapproving, condemning
 
-Decree: An official order that has the force of law.
+## M
 
-Puff piece: An article or story in the media that is excessively complimentary about a person, product, event, etc.
+### Mesmerize
+- **Root**: Named after Franz Mesmer, who developed the theory of animal magnetism
+- **Memory Tip**: Think "mess-mer-eyes" - eyes in a mess from being transfixed
+- **Synonyms**: Hypnotize, entrance, spellbind
+- **Antonyms**: Bore, repel, disinterest
 
-Schmaltz: Excessive sentimentality, especially in music or films.
+### Methinks
+- **Root**: Old English "me thyncan" (it seems to me)
+- **Memory Tip**: Literally "me thinks" - what I think
+- **Synonyms**: I believe, I suppose, I think
+- **Usage Note**: Archaic, primarily used in historical or poetic contexts
 
-Goatee: A small pointed beard like that of a goat.
+## N
 
-Whimsical: Playfully quaint or fanciful, especially in an appealing and amusing way, acting or behaving in a capricious manner.
+### Nascent
+- **Root**: From Latin "nasci" (to be born)
+- **Memory Tip**: Think "natal" - something being born
+- **Synonyms**: Emerging, budding, developing
+- **Antonyms**: Mature, established, developed
 
-Captivating: Capable of attracting and holding interest; charming.
+## O
 
-Mettle: A person's ability to cope well with difficulties; spirit and resilience.
+### Obstreperous
+- **Root**: From Latin "ob" (against) + "strepere" (to make noise)
+- **Memory Tip**: Think "ob-STREP-erous" - strep throat makes noise
+- **Synonyms**: Noisy, unruly, boisterous
+- **Antonyms**: Quiet, docile, manageable
 
-Sleuthing: Careful investigation into a crime or mystery.
+### Obfuscation
+- **Root**: From Latin "ob" (over) + "fuscare" (to darken)
+- **Memory Tip**: Think "ob-fuse" - like blowing a fuse, making things unclear
+- **Synonyms**: Confusion, concealment, bewilderment
+- **Antonyms**: Clarification, explanation, illumination
 
-Infinitesimal: Extremely small, an indefinitely small quantity; a value approaching zero.
+## P
 
-Condescending: Having or showing an attitude of patronizing superiority.
+### Pandiculation
+- **Root**: From Latin "pandiculari" (to stretch oneself)
+- **Memory Tip**: "Panda-culation" - imagine a panda stretching
+- **Synonyms**: Stretching, extending, yawning
+- **Usage Note**: Specifically refers to the act of stretching and yawning simultaneously
 
-Awful: Very bad or unpleasant used to emphasize the extent of something, especially something unpleasant or negative.
+### Psephology
+- **Root**: From Greek "psephos" (pebble) + "logos" (study)
+- **Memory Tip**: Ancient Greeks voted with pebbles
+- **Synonyms**: Electoral analysis, voting analysis
+- **Usage Note**: Specialized term for the study of elections and voting patterns
+
+## Q
+
+### Quixotic
+- **Root**: From "Don Quixote", the idealistic hero of Cervantes' novel
+- **Memory Tip**: Think of Don Quixote fighting windmills
+- **Synonyms**: Idealistic, romantic, impractical
+- **Antonyms**: Practical, realistic, pragmatic
+
+## S
+
+### Sumptuous
+- **Root**: From Latin "sumptus" (expense)
+- **Memory Tip**: Think "sum-plus" - lots of money spent
+- **Synonyms**: Luxurious, lavish, opulent
+- **Antonyms**: Plain, modest, austere
+
+### Sleuthing
+- **Root**: From Old Norse "sloð" (trail)
+- **Memory Tip**: Think Sherlock Holmes following a trail
+- **Synonyms**: Investigating, detecting, probing
+- **Antonyms**: Overlooking, ignoring, missing
+
+## T
+
+### Traitor
+- **Root**: From Latin "traditor" (one who delivers)
+- **Memory Tip**: One who "trades" loyalty for personal gain
+- **Synonyms**: Betrayer, turncoat, deserter
+- **Antonyms**: Loyalist, patriot, faithful friend
+
+## V
+
+### Valour
+- **Root**: From Latin "valor" (worth, strength)
+- **Memory Tip**: Think "valuable" courage
+- **Synonyms**: Bravery, courage, heroism
+- **Antonyms**: Cowardice, timidity, fearfulness
+
+### Visage
+- **Root**: From Old French, from Latin "visus" (a look)
+- **Memory Tip**: Think "vis-age" - what is visible about one's age/face
+- **Synonyms**: Face, countenance, appearance
+- **Antonyms**: Soul, interior, essence
+
+## W
+
+### Whimsical
+- **Root**: From "whim" (a sudden turn of mind)
+- **Memory Tip**: Think "whim-cycle" - cycling through different fancies
+- **Synonyms**: Fanciful, playful, capricious
+- **Antonyms**: Serious, practical, steady
