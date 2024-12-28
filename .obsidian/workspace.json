@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "10d31e0bfa0d7ba3",
+        "id": "6fa5f04e795d1fd3",
         "type": "tabs",
         "children": [
           {
-            "id": "1e1c17d7fd560633",
+            "id": "aa681815448feaf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,13 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e1c17d7fd560633",
+  "active": "aa681815448feaf3",
   "lastOpenFiles": [
+    "Random Notes/Random Notes.md",
+    "Random Notes/Saturday, 28 December 2024.md",
+    "AKPK/Useful Links/Website Links.md",
+    "Linux Commands/Arch Linux.md",
     "Notes/Vocabulary+.md",
     "Notes/Vocabulary.md",
     "Notes/Best ChatGPT Alternatives.md",
-    "Random Notes/Thursday, 26 December 2024.md",
-    "AKPK/Useful Links/Website Links.md",
     "Academics/PhD/PhD Vacancies-2025.md",
     "Notes/Computational Social Science.md",
     "Notes/Computational Social Sciences.md",
@@ -190,9 +192,6 @@
     "Academics/World Universities/Professors & Departments/The University of Michigan.md",
     "Academics/PhD/PhD Vacancies-2024.md",
     "Academics/World Universities/Professors & Departments/University of Basel.md",
-    "Academics/World Universities/Professors & Departments/Untitled.md",
-    "Academics/World Universities/Professors & Departments/Georgia Institute of Technology, USA.md",
-    "Academics/World Universities/Professors & Departments/CS Research at Max Planck Institutes.md",
     "Academics/World Universities/Professors & Departments/Untitled",
     "Notes/Agent-Based Modeling",
     "Academics/World Universities/Sciences Po, France",
