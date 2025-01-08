@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ce40b3eff314e1e2",
+        "id": "ebac0453f7883df7",
         "type": "tabs",
         "children": [
           {
-            "id": "00d352b8bfc4c927",
+            "id": "3a7a04e23d12e766",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,17 +162,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00d352b8bfc4c927",
+  "active": "3a7a04e23d12e766",
   "lastOpenFiles": [
+    "Academics/PhD/PhD Vacancies-2025.md",
+    "Linux Commands/Arch Linux.md",
     "Academics/PhD/Resources.md",
     "Random Notes/Random Notes.md",
     "Random Notes/Saturday, 28 December 2024.md",
-    "Linux Commands/Arch Linux.md",
     "AKPK/Useful Links/Website Links.md",
     "Notes/Vocabulary+.md",
     "Notes/Vocabulary.md",
     "Notes/Best ChatGPT Alternatives.md",
-    "Academics/PhD/PhD Vacancies-2025.md",
     "Notes/Computational Social Science.md",
     "Notes/Computational Social Sciences.md",
     "Notes/Linux File System.md",
