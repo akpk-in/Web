@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fb8957798d27c8fe",
+        "id": "60b32bd7050fc8b3",
         "type": "tabs",
         "children": [
           {
-            "id": "222808fb6238062b",
+            "id": "11b20e64bec6ea48",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -162,15 +163,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "222808fb6238062b",
+  "active": "11b20e64bec6ea48",
   "lastOpenFiles": [
     "Academics/PhD/PhD Vacancies-2025.md",
+    "AKPK/Useful Links/Website Links.md",
+    "Academics/PhD/PhD Vacancies-2024.md",
     "Linux Commands/Arch Linux.md",
     "Linux Commands/Printer @Thinkpad L14.md",
     "Academics/PhD/Resources.md",
     "Random Notes/Random Notes.md",
     "Random Notes/Saturday, 28 December 2024.md",
-    "AKPK/Useful Links/Website Links.md",
     "Notes/Vocabulary+.md",
     "Notes/Vocabulary.md",
     "Notes/Best ChatGPT Alternatives.md",
@@ -192,7 +194,6 @@
     "AKPK/Account Numbers.md",
     "Academics/World Universities/Courses-MIT/The University of Michigan.md",
     "Academics/World Universities/Professors & Departments/The University of Michigan.md",
-    "Academics/PhD/PhD Vacancies-2024.md",
     "Academics/World Universities/Professors & Departments/Untitled",
     "Notes/Agent-Based Modeling",
     "Academics/World Universities/Sciences Po, France",
