@@ -72,7 +72,7 @@ bundle exec jekyll serve
 
 **Obsidian-Git**
 
-cd "/home/akpk/Documents/Obsidian Vault/"
+cd "/home/Arun/Documents/Obsidian Vault/"
 git init
 git add .
 git commit -m "Initial commit: Adding Obsidian vault"
