@@ -1,3 +1,1 @@
 1. **Closing Date for Application forms 17:00 (UK time) Tuesday 1 April 2025** https://phd.leeds.ac.uk/funding/209-leeds-doctoral-scholarships-2025
-2. **Deadline date 14 February 2025** https://www.soas.ac.uk/study/student-life/finance/scholarships/camhra-doctoral-scholarships
-3. **Deadline Monday 3 March 2025** https://phd.leeds.ac.uk/funding/384-school-of-media-and-communication-phd-scholarship-2025-2026

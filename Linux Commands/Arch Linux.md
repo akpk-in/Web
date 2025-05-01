@@ -82,10 +82,13 @@ git push -u origin main
 git add .
 git commit -m "Your message describing the changes"
 git push
-ssh-add ~/.ssh/github_akpk
-ssh -i ~/.ssh/github_akpk git@github.com
+ssh-add ~/.ssh/akpk
+ssh -i ~/.ssh/akpk git@github.com
 -
-
+git remote set-url origin git@github.com:akpk-in/Web.git
+git remote set-url origin git@github.com:akpk-in/Python.git
+git remote set-url origin git@github.com:akpk-in/Obsidian.git
+-
 jupyter lab
 jupyter notebook
 udisksctl mount -b /dev/nvme0n1p4  # Academic
